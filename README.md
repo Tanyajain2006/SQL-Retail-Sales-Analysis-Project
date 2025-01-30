@@ -14,4 +14,4 @@ The Retail Sales Analysis using SQL project aims to analyze sales data from a re
   SQL (MySQL)
   SQL Queries: Aggregations (SUM, AVG), Filtering (WHERE), Ranking (RANK, ROW_NUMBER), Grouping (GROUP BY), and Time-based Analysis (YEAR, MONTH).
 
-Dataset is provided in the repository.
+** Dataset is provided in the repository.
