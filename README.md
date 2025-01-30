@@ -8,7 +8,6 @@ The Retail Sales Analysis using SQL project aims to analyze sales data from a re
 2. Sales Performance Analysis: Identify top-selling products, peak sales months, and revenue trends.
 3. Customer Insights: Find high-value customers, purchase frequency, and spending patterns.
 4. Category-wise Analysis: Compare sales across different product categories.
-5. Profitability Insights: Analyze discounts, profit margins, and overall business performance.
 
 # 🛠️ Technologies Used
   SQL (MySQL)
