@@ -10,7 +10,9 @@ The Retail Sales Analysis using SQL project aims to analyze sales data from a re
 4. Category-wise Analysis: Compare sales across different product categories.
 
 # 🛠️ Technologies Used
-  SQL (MySQL)
-  SQL Queries: Aggregations (SUM, AVG), Filtering (WHERE), Ranking (RANK, ROW_NUMBER), Grouping (GROUP BY), and Time-based Analysis (YEAR, MONTH).
+SQL (MySQL)
+
+# SQL Queries
+Aggregations (SUM, AVG), Filtering (WHERE), Ranking (RANK, ROW_NUMBER), Grouping (GROUP BY), and Time-based Analysis (YEAR, MONTH).
 
 ** Dataset is provided in the repository.
